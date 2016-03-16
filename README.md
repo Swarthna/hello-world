@@ -1,2 +1,2 @@
 # hello-world
-Learning the bsics.
+Learning the basics.
